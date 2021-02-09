@@ -2,9 +2,9 @@ MRvfx
 ------
 
 
-**MRvfx** is a Unity sample project that show how to bake normal mesh object to VFX
+**MRvfx** is a Unity sample project that show how to bake normal mesh object to [visual effect graph]
 
-it is based on https://github.com/keijiro/smrvfx and fixed it to support meshfilter 
+it is based on [smrvfx] and fixed it to support meshfilter 
 
 [smrvfx]: https://github.com/keijiro/smrvfx
 [visual effect graph]: https://unity.com/visual-effect-graph
