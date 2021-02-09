@@ -1,6 +1,6 @@
 MFvfx
 ------
-
+![screenshot](MRvfx.png)
 
 **MFvfx** is a Unity sample project that show how to bake normal mesh object to [visual effect graph]
 
